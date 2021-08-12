@@ -1,5 +1,5 @@
 # MyChat
-Adopted version of 'labalaba' https://github.com/vykes-mac/labalaba with null safty for newer versions of flutter
+Adopted version of 'labalaba' https://github.com/vykes-mac/labalaba (https://www.youtube.com/channel/UCKl899XlseXag4b6_MplQ8Q) with null safty for newer versions of flutter
 
 Flutter chatting application featering beyond chatting typing notifications, reading notifications, profiles picture and not quite final last seen and online status.
 

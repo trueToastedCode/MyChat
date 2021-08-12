@@ -1,16 +1,10 @@
 # any1
+Adopted version of 'labalaba' https://github.com/vykes-mac/labalaba with null safty for newer versions
 
-A new Flutter project.
+### Tested on:
+- Flutter version 2.0.6
+- Dart version 2.12.3
 
-## Getting Started
+![rsz_simulator_screen_shot_-_iphone_11_pro_-_2021-08-12_at_061849](https://user-images.githubusercontent.com/44642574/129138274-c1413f65-1547-4b33-9ed8-d4bee5cb1e33.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![rsz_2simulator_screen_shot_-_iphone_12_pro_-_2021-08-12_at_061939](https://user-images.githubusercontent.com/44642574/129138235-4410a269-a9e1-4172-9bdd-e577305ddce4.png)

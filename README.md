@@ -1,6 +1,10 @@
 # MyChat
 Adopted version of 'labalaba' https://github.com/vykes-mac/labalaba with null safty for newer versions of flutter
 
+Flutter chatting application featering beyond chatting typing notifications, reading notifications, profiles picture and not quite final last seen and online status.
+
+It has been build modular and can be relativly easy adopted.
+
 ### Tested on:
 - Flutter version 2.0.6
 - Dart version 2.12.3

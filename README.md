@@ -1,4 +1,4 @@
-# any1
+# MyChat
 Adopted version of 'labalaba' https://github.com/vykes-mac/labalaba with null safty for newer versions
 
 ### Tested on:

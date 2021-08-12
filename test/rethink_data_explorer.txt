@@ -1,0 +1,12 @@
+r.db('test').table('messages').insert({
+  'from': '5be9b985-2ca4-4291-9e6d-dfdd07d126ca',
+  'to': '1d09af9b-ddbb-4f51-8374-b857b59cab76',
+  'timestamp': r.now(),
+  'contents': 'Heey how are u?'
+})
+
+r.db('test').table('typing_events').insert({
+  'from': '5be9b985-2ca4-4291-9e6d-dfdd07d126ca',
+  'to': '1d09af9b-ddbb-4f51-8374-b857b59cab76',
+  'event': 'stop'
+})

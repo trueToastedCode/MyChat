@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="initial chats return empty list" type="FlutterTestConfigType" factoryName="Flutter Test" nameIsGenerated="true">
+    <option name="testName" value="initial chats return empty list" />
+    <option name="testFile" value="$PROJECT_DIR$/test/viewmodels/chats_view_model_test.dart" />
+    <option name="additionalArgs" value="--no-sound-null-safety" />
+    <method v="2" />
+  </configuration>
+</component>

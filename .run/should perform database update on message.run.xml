@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="should perform database update on message" type="FlutterTestConfigType" factoryName="Flutter Test" nameIsGenerated="true">
+    <option name="testName" value="should perform database update on message" />
+    <option name="testFile" value="$PROJECT_DIR$/test/sqflite_datasource_test.dart" />
+    <option name="additionalArgs" value="--no-sound-null-safety" />
+    <method v="2" />
+  </configuration>
+</component>

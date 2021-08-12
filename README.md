@@ -1,5 +1,5 @@
 # MyChat
-Adopted version of 'labalaba' https://github.com/vykes-mac/labalaba with null safty for newer versions
+Adopted version of 'labalaba' https://github.com/vykes-mac/labalaba with null safty for newer versions of flutter
 
 ### Tested on:
 - Flutter version 2.0.6
